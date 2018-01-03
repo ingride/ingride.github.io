@@ -14,7 +14,7 @@ default_img:
 # Profile settings
 name: ingrid.e
 profile_img: /assets/images/ingrid.gif
-profile: Engineer at Intercom . Speaker . Makes the world simpler, one production system at a time . @dublinjs co-organizer . Travels often .
+profile: Ingrid wants to make the world simpler. She's starting with Intercom's production systems. She talks and cares deeply about demystifying the tech culture and wants to make it more accessible and open. She is a Rails and EmberJs contributor, a DublinJs co-organizer and a mentor for women in tech communities. It's not entirely clear if she's really a unicorn whisperer or a vampire, but mentioning them makes bio's less awkward.
 social:
   github: https://github.com/ingride
   twitter: https://twitter.com/ingridepure
