@@ -34,11 +34,19 @@ During my time in Educate, one of the most interesting things I had to work on, 
 
 I realized what I care about most is precisely that - making information accessible. Less magic and things that seem like you need 2 PHDs and 10 brains to understandthem. And a more down to Earth approach - that well, big surprise! - anything is learnable, and can be simplified to be understood by more people.
 
+<<<<<<< Updated upstream
 I continued applying, and ended up giving 9 talks across the world, on 4 different topics. To audiences from 100 to 900 people. Those numbers, to me, are… insane. And even more insane is that I got to be on the same stage as some of my heroes. And no-one threw tomatoes at me. <b> To all of you, thank you. I have … no words. </b>
+=======
+I continued applying and ended up giving 9 talks across the world on 4 different topics. To audiences from 100 to 900 people. Those numbers to me are… insane. And even more insane is that I got to be on the same stage as some of my heroes. And no-one threw tomatoes at me. <b> To all of you, thank you. I have … no words. </b>
+>>>>>>> Stashed changes
 
 Some other cool things came out of that. Like the fact that I met some wonderful people at SRECon EMEA, and am now part of the organizers for SRECon18 🎉.
 
+<<<<<<< Updated upstream
 I also ‘sold’ Intercom the idea of not only attending, but also sponsoring the Grace Hopper Celebration for Women in Computing. Me and two of my colleagues went for the first time in 2016. This time, there were 9 of us, and we had a booth. Where you could Intercom with a vampire. <a title="because I make jokes about being a vampire. Cos I'm Romanian 😎"> Get it? </a>
+=======
+I also ‘sold’ Intercom the idea of not only attending, but also sponsoring Grace Hopper Celebration for Women in Computing. Me and two of my colleagues went for the first time in 2016. This time, there were 9 of us and we had a booth. Where you could Intercom with a vampire. <a title="because I make jokes about being a vampire. Cos I'm Romanian 😎"> Get it? </a>
+>>>>>>> Stashed changes
 
 <img src="/assets/images/vampire.jpg"/>
 
@@ -59,9 +67,14 @@ One of my goals for 2017 was to travel more. I see traveling as a growing and le
 
 <h3> [ random bits of magic. 💁🏼 ] </h3>
 
+<<<<<<< Updated upstream
 ∞ I got two tattoos. I was toying with the idea of getting one for a long time. And in March, while in Portland, I decided to take the plunge. It felt incredibly me, and the decision for the second one was much easier to make. I love symbols, and these two represent ideas very close to my heart.
 <br /> 😁 I got braces. I smile more as a result of that. It's probably one of the best decisions I've ever made.
 <br /> 🎮 I got an Xbox. I’ve never been a gamer, except for Age of Empires, but I watch way too much Netflix for my own good anyway. So, at least, now I have some variety.
+=======
+∞ I got two tattoos. I was always toying with the idea of getting one, and in March, while in Portland, I decided to take the plunge. It felt incredibly me and the decision for the second one was much easier to make. I love symbols and these two represent ideas very close to my heart.
+<br /> 🎮 I got an Xbox. I’ve never been a gamer, except for Age of Empires but I watch way too much Netflix for my own good, so at least now I have some variation.
+>>>>>>> Stashed changes
 <br /> ⚡️ I started reading the Harry Potter books.
 <br /> 🚙 I got my provisional driver’s license.
 <br /> 💜 I got purple highlights. Which is the craziest thing I've ever done to my hair. Besides dying it orange in 2016. Let's not talk about that 🙊.
