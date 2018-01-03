@@ -17,7 +17,7 @@ I put two and two together, and decided 2017 was gonna be the year of listening 
 
 <h3> [ work. 👩‍💻 ] </h3>
 
-I joined Intercom in 2016 because I really wanted to do web. And I was one of the 4 main engineers behind <a href="https://www.intercom.com/educate" target="_blank" rel="nofollow"> Educate </a>, a product that got released in December 2016. I loved how rewarding Ember.js and the web could be. So much, that I applied to speak at Emberconf, and got accepted. Did I mention this was my first time doing front-end in more than 5 years 🙈 !? Well, it was.
+I joined Intercom in 2016 because I really wanted to do web. And I was one of the 4 main engineers behind <a href="https://www.intercom.com/educate" target="_blank" rel="nofollow"> Educate </a>, a product that got released in December 2016. I loved how rewarding Ember.js and the web could be. So much, I applied to speak at Emberconf, and got accepted. Did I mention this was my first time doing front-end in more than 5 years 🙈 !? Well, it was.
 
 But my heart was always in distributed systems. And I missed the awe of getting lost in a complex system that powers everything else. And how good it feels to make it simpler. So in February, I joined the Infrastructure team - now renamed Production Systems - with a personal goal of expanding my systems knowledge.
 
