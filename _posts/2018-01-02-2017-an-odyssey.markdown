@@ -34,7 +34,7 @@ During my time in Educate, one of the most interesting things I had to work on, 
 
 I realized what I care about most is precisely that - making information accessible. Less magic and things that seem like you need 2 PHDs and 10 brains to understand them. And a more down to Earth approach - that well, big surprise! - anything is learnable, and can be simplified to be understood by more people.
 
-I continued applying, and ended up giving 9 talks across the world, on 4 different topics. To audiences from 100 to 900 people. Those numbers, to me, are… insane. And even more insane is that I got to be on the same stage as some of my heroes. And no-one threw tomatoes at me. <b> To all of you, thank you. I have … no words. </b>
+I continued applying, and ended up giving 9 talks across the world, on 4 different subjects. To audiences from 100 to 900 people. Those numbers, to me, are… insane. And even more insane is that I got to be on the same stage as some of my heroes. And no-one threw tomatoes at me. <b> To all of you, thank you. I have … no words. </b>
 
 Some other cool things came out of that. Like the fact that I met some wonderful people at SRECon EMEA, and am now part of the organizers for SRECon18 🎉.
 
