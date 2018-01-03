@@ -17,7 +17,7 @@ I put two and two together and decided 2017 was gonna be the year of listening t
 
 <h3> [ work. 👩‍💻] </h3>
 
-I joined Intercom in 2016 because I really wanted to do web. And I was one of the 4 main engineers behind <a href="https://www.intercom.com/educate" target="_blank" rel="nofollow"> Educate </a>, a product that got released in December 2016. I loved how rewarding Ember.js and the web could be. So much, that I applied to speak at Emberconf and got accepted.
+I joined Intercom in 2016 because I really wanted to do web. And I was one of the 4 main engineers behind <a href="https://www.intercom.com/educate" target="_blank" rel="nofollow"> Educate </a>, a product that got released in December 2016. I loved how rewarding Ember.js and the web could be. So much, that I applied to speak at Emberconf and got accepted. Did I mention this was my first time doing front-end in more than 5 years 🙈 !? Well, it was. 
 
 But my heart was always in distributed systems. And I missed the awe of getting lost in a complex system that powers everything else. And how good it feels to make it simpler. So in February, I joined the Infrastructure team - now renamed Production Systems - with the goal of expanding my systems knowledge.
 
@@ -34,11 +34,11 @@ During my time in Educate, one of the most interesting things I had to work on, 
 
 I realized what I care about most is precisely that - making information accessible. Less magic and things that seem like you need to have 2 PHDs and 10 brains to understand it. And a more down to Earth approach - that well, big surprise, anything is learnable and can be simplified to be understood by more people.
 
-I continued applying and ended up giving 9 talks across the world. To audiences from 100 to 900 people. Those numbers to me are… insane. And even more insane is that I got to be on the same stage as some of my heroes. And no-one threw tomatoes at me. <b> To all of you, thank you. I have … no words. </b>
+I continued applying and ended up giving 9 talks across the world on 4 different topics. To audiences from 100 to 900 people. Those numbers to me are… insane. And even more insane is that I got to be on the same stage as some of my heroes. And no-one threw tomatoes at me. <b> To all of you, thank you. I have … no words. </b>
 
 Some other cool things came out of that. Like the fact that I met some wonderful people at SRECon EMEA and am now part of the organizers for SRECon18 🎉.
 
-I also ‘sold’ Intercom the idea of not only attending but also sponsoring Grace Hopper Celebration for Women in Computing. Me and two of my colleagues went for the first time in 2016. This time, there were 9 of us and we had a booth. Where you could Intercom with a vampire. <a title="because I make jokes about being a vampire. Cos I'm Romanian 😎"> Get it? </a>
+I also ‘sold’ Intercom the idea of not only attending, but also sponsoring Grace Hopper Celebration for Women in Computing. Me and two of my colleagues went for the first time in 2016. This time, there were 9 of us and we had a booth. Where you could Intercom with a vampire. <a title="because I make jokes about being a vampire. Cos I'm Romanian 😎"> Get it? </a>
 
 <img src="/assets/images/vampire.jpg"/>
 
@@ -73,4 +73,4 @@ One of my goals for 2017 was to travel more. I see traveling as a growing and le
 
 2017 was probably one of my best years so far. And my last year in my 20’s - insert mild panic attack here 😱 . Not a bad foundation for whatever my 30’s and 2018 will bring.
 
-<h4> So 2018, we’ve got this! 💪 </h4>
+<h4> So, 2018, we’ve got this! 💪 </h4>
