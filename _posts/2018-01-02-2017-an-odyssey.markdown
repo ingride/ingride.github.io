@@ -4,7 +4,7 @@ title: "2017: An Odyssey"
 date: 2018-01-02
 categories:
   - retro
-description: 2017 In Review 👩‍💻 📡 🚀 📷
+description: Ingrid looks back at 2017 and writes a review 👩‍💻 📡 🚀 📷
 image: http://ingride.xyz/assets/images/1200/2018-01-02-volcano.jpg
 image-sm: /assets/images/300/2018-01-02-volcano.jpg
 ---
