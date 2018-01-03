@@ -8,63 +8,63 @@ description: 2017 In Review
 image: http://ingride.xyz/assets/images/1200/2018-01-02-volcano.jpg
 image-sm: /assets/images/300/2018-01-02-volcano.jpg
 ---
-Christmas-time 2016 I had a revelation: A lot of what I think I can or cannot do, the way I perceive opportunities, challenges and see myself, has been heavily influenced by what people around told me or believed.
+Christmas-time 2016, I had a revelation: a lot of what I think I can or cannot do, the way I perceive opportunities, challenges, and see myself has been heavily influenced by what people around told me or believed.
 I come from that kind of culture. I didn’t like it. And it didn’t fit with how I wanted to be, do things, live.
 
-I started 2017 watching the fireworks on the Charles Bridge in Prague, with a wonderful friend and a fearless Lady that decided to travel by herself for New Years, all the way from Asia. We met her that night, and I remember how inspired I felt by her story, her fearlessness and confidence. By comparison - I had always been curious about traveling alone, but always felt strange about it. I wasn’t really afraid of it, but thought it would mean awkward answers to ‘OMG, you’re going alone!? WHY!?’ .
+I started 2017 watching the fireworks on the Charles Bridge, in Prague, with a wonderful friend, and a fearless Lady that decided to travel by herself for New Years, all the way from Asia. We met her that night, and I remember how inspired I felt by her story, her fearlessness and confidence. By comparison, I had always been curious about traveling alone, but always felt strange about it. I wasn’t really afraid of it, but thought it would mean awkward answers to ‘OMG, you’re going alone!? WHY!?’ .
 
-I put two and two together and decided 2017 was gonna be the year of listening to myself, standing up for what I believe - even if it’s different - and not being afraid. I felt the most in control and present that I’ve been in years. And more importantly - I felt strong.
+I put two and two together, and decided 2017 was gonna be the year of listening to myself, standing up for what I believe - even if it’s different - and not being afraid. I felt the most in control and present that I’ve been in years. And more importantly, I felt strong.
 
-<h3> [ work. 👩‍💻] </h3>
+<h3> [ work. 👩‍💻 ] </h3>
 
-I joined Intercom in 2016 because I really wanted to do web. And I was one of the 4 main engineers behind <a href="https://www.intercom.com/educate" target="_blank" rel="nofollow"> Educate </a>, a product that got released in December 2016. I loved how rewarding Ember.js and the web could be. So much, that I applied to speak at Emberconf and got accepted. Did I mention this was my first time doing front-end in more than 5 years 🙈 !? Well, it was.
+I joined Intercom in 2016 because I really wanted to do web. And I was one of the 4 main engineers behind <a href="https://www.intercom.com/educate" target="_blank" rel="nofollow"> Educate </a>, a product that got released in December 2016. I loved how rewarding Ember.js and the web could be. So much, that I applied to speak at Emberconf, and got accepted. Did I mention this was my first time doing front-end in more than 5 years 🙈 !? Well, it was.
 
-But my heart was always in distributed systems. And I missed the awe of getting lost in a complex system that powers everything else. And how good it feels to make it simpler. So in February, I joined the Infrastructure team - now renamed Production Systems - with the goal of expanding my systems knowledge.
+But my heart was always in distributed systems. And I missed the awe of getting lost in a complex system that powers everything else. And how good it feels to make it simpler. So in February, I joined the Infrastructure team - now renamed Production Systems - with a personal goal of expanding my systems knowledge.
 
-Github reflects the learning curve I took while joining the team - being part of an operational team means on-call rotations and sometimes doing projects that don’t always involve coding.
+Github reflects the learning curve I took while joining the team. And that being part of an operational team means on-call rotations, and sometimes doing projects that don’t always involve coding.
 <img src="/assets/images/github-2017.png" alt="Github 2017"/>
 
-I got to work on a variety of projects from deployments to databases, security, instrumentation and logging. I discovered I really like observability and data pipelines and that it’s something I want to do more of in 2018.
+I got to work on a variety of projects, from deployments, to databases, performance, security, instrumentation and logging. I discovered I am really interested in performance. And that I really like observability and data pipelines. So more of that to come in 2018.
 
-I do miss doing web and how creative JavaScript can be. So I am definitely not willing to part ways with them. But I plan on developing those areas in private, through personal projects and contributing to open-source.
-<br>I also joined DublinJs as a co-organizer and am excited to help the community grow.  
+I do miss doing web, and how creative JavaScript can be. So I am definitely not willing to part ways with them. But I plan on developing those areas in private, through personal projects and contributing to open-source. And speaking of, I joined DublinJs as a co-organizer, and am really excited to help grow the community!
 
 <h3> [ conferences. 📡 ] </h3>
 
-During my time in Educate, one of the most interesting things I had to work on, was security-related. I always had an interest in the area, but never got to actually touch any security work. Security was to me, one of those areas in tech, that feel like you have to be cut from a certain type of material to be able to make it. In other words, not incredibly accessible to full-stack engineers or people outside of the academic environment. I wanted to look more into it and find a way to demystify it. I wrote a talk, submitted it to Emberconf and got accepted.
+During my time in Educate, one of the most interesting things I had to work on, was security-related. I always had an interest in the area, but never got to actually touch any security work after university. Security, was to me, one of those areas in tech that feel like you have to be cut from a certain type of material to be able to make it. In other words, not incredibly accessible to full-stack engineers, or people outside of the academic environment. I wanted to look more into it, and find a way to demystify it. I wrote a talk, submitted it to Emberconf, and got accepted.
 
-I realized what I care about most is precisely that - making information accessible. Less magic and things that seem like you need to have 2 PHDs and 10 brains to understand it. And a more down to Earth approach - that well, big surprise, anything is learnable and can be simplified to be understood by more people.
+I realized what I care about most is precisely that - making information accessible. Less magic and things that seem like you need 2 PHDs and 10 brains to understandthem. And a more down to Earth approach - that well, big surprise! - anything is learnable, and can be simplified to be understood by more people.
 
-I continued applying and ended up giving 9 talks across the world on 4 different topics. To audiences from 100 to 900 people. Those numbers to me are… insane. And even more insane is that I got to be on the same stage as some of my heroes. And no-one threw tomatoes at me. <b> To all of you, thank you. I have … no words. </b>
+I continued applying, and ended up giving 9 talks across the world, on 4 different topics. To audiences from 100 to 900 people. Those numbers, to me, are… insane. And even more insane is that I got to be on the same stage as some of my heroes. And no-one threw tomatoes at me. <b> To all of you, thank you. I have … no words. </b>
 
-Some other cool things came out of that. Like the fact that I met some wonderful people at SRECon EMEA and am now part of the organizers for SRECon18 🎉.
+Some other cool things came out of that. Like the fact that I met some wonderful people at SRECon EMEA, and am now part of the organizers for SRECon18 🎉.
 
-I also ‘sold’ Intercom the idea of not only attending, but also sponsoring Grace Hopper Celebration for Women in Computing. Me and two of my colleagues went for the first time in 2016. This time, there were 9 of us and we had a booth. Where you could Intercom with a vampire. <a title="because I make jokes about being a vampire. Cos I'm Romanian 😎"> Get it? </a>
+I also ‘sold’ Intercom the idea of not only attending, but also sponsoring the Grace Hopper Celebration for Women in Computing. Me and two of my colleagues went for the first time in 2016. This time, there were 9 of us, and we had a booth. Where you could Intercom with a vampire. <a title="because I make jokes about being a vampire. Cos I'm Romanian 😎"> Get it? </a>
 
 <img src="/assets/images/vampire.jpg"/>
 
 <h3> [ travel. ⛵️ ] </h3>
-One of my goals for 2017 was to travel more. I see traveling as a growing and learning experience and being able to do that alongside my job, makes me very lucky.
+One of my goals for 2017 was to travel more. I see traveling as a growing and learning experience, and being able to do that - alongside my job - makes me very lucky.
 <img src="/assets/images/2017-travel.jpg" alt="crazy, crazy World">
-<br /> 🚀 I traveled to 15 cities in 10 countries.
+<br /> 🚀 Traveled to 15 cities in 10 countries.
 <br /> 🙏 Traveled alone for the first time and did yoga on a cliff in Hvar, Croatia. Much zen was acquired that day.
 <br /> ❤️ Traveled to Asia for the first time. Fell in LOVE with Bali.
-<br /> 💪 Hiked a volcano at sunrise and to my surprise was one of the strongest hikers in the group.
+<br /> 💪 Hiked a volcano at sunrise and to my surprise was one of the strongest in the group.
 <br /> 😍 Woke-up in the crack of dawn to go take pictures of a temple at sunrise.
 <br /> 🐭 Went to DisneyWorld twice - in Paris and Orlando.
 <br /> ⚡️ Got to see the Harry Potter world.
-<br /> 😱 Was on a rollercoaster for the first - and to be honest probably last - time but it was still one of the best feelings in the world.
+<br /> 😱 Was on a rollercoaster for the first - and to be honest, probably last - time, but it was still one of the best feelings in the world.
 <br /> 🙌 Stayed up and watched the sunrise after dancing all night. I felt like a teen again and it was amazing.  
-<br /> 📷 I basically have more photos than ever and I do need to get my s**t together and edit them. To be continued.
+<br /> 📷 I basically have more photos than ever, and I do need to get my s**t together and edit them. To be continued.
 
 
 <h3> [ random bits of magic. 💁🏼 ] </h3>
 
-∞ I got two tattoos. I was always toying with the idea of getting one, and in March, while in Portland, I decided to take the plunge. It felt incredibly me and the decision for the second one was much easier to make. I love symbols and these two represent ideas very close to my heart.
-<br /> 🎮 I got an Xbox. I’ve never been a gamer, except for Age of Empires but I watch way too much Netflix for my own good, so at least now I have some variation.
+∞ I got two tattoos. I was toying with the idea of getting one for a long time. And in March, while in Portland, I decided to take the plunge. It felt incredibly me, and the decision for the second one was much easier to make. I love symbols, and these two represent ideas very close to my heart.
+<br /> 😁 I got braces. I smile more as a result of that. It's probably one of the best decisions I've ever made.
+<br /> 🎮 I got an Xbox. I’ve never been a gamer, except for Age of Empires, but I watch way too much Netflix for my own good anyway. So, at least, now I have some variety.
 <br /> ⚡️ I started reading the Harry Potter books.
 <br /> 🚙 I got my provisional driver’s license.
-<br /> 💜 I got purple highlights. Which is the craziest thing I've ever done to my hair. Besides dying it orange in 2016. But let's not talk about that 🙊.
+<br /> 💜 I got purple highlights. Which is the craziest thing I've ever done to my hair. Besides dying it orange in 2016. Let's not talk about that 🙊.
 <br /> 🖖 I made new friends. And lost some people along the way. Apparently it's growing up. Still sucks tho.
 <br /> 🤓 I still love my job. I still feel anxious before going on stage. I still have doubts and fears. But I handle them better.
 <br /> 🦄 I got my intercomic. And surprise, surprise, it has unicorns on it.
