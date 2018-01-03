@@ -17,12 +17,13 @@ I put two and two together and decided 2017 was gonna be the year of listening t
 
 <h3> [ work. 👩‍💻] </h3>
 
-I joined Intercom in 2016 because I really wanted to do web. And I was one of the 4 main engineers behind <a href="https://www.intercom.com/educate" target="_blank" rel="nofollow"> Educate </a>, a product that got released in December 2016. I loved how rewarding Ember.js and the web could be. So much, that I applied to speak at Emberconf and got accepted. Did I mention this was my first time doing front-end in more than 5 years 🙈 !? Well, it was. 
+I joined Intercom in 2016 because I really wanted to do web. And I was one of the 4 main engineers behind <a href="https://www.intercom.com/educate" target="_blank" rel="nofollow"> Educate </a>, a product that got released in December 2016. I loved how rewarding Ember.js and the web could be. So much, that I applied to speak at Emberconf and got accepted. Did I mention this was my first time doing front-end in more than 5 years 🙈 !? Well, it was.
 
 But my heart was always in distributed systems. And I missed the awe of getting lost in a complex system that powers everything else. And how good it feels to make it simpler. So in February, I joined the Infrastructure team - now renamed Production Systems - with the goal of expanding my systems knowledge.
 
 Github reflects the learning curve I took while joining the team - being part of an operational team means on-call rotations and sometimes doing projects that don’t always involve coding.
-<img src="/assets/images/github-2017.png" alt="Github 2017" width="800"/>
+<img src="/assets/images/github-2017.png" alt="Github 2017"/>
+
 I got to work on a variety of projects from deployments to databases, security, instrumentation and logging. I discovered I really like observability and data pipelines and that it’s something I want to do more of in 2018.
 
 I do miss doing web and how creative JavaScript can be. So I am definitely not willing to part ways with them. But I plan on developing those areas in private, through personal projects and contributing to open-source.
@@ -44,7 +45,7 @@ I also ‘sold’ Intercom the idea of not only attending, but also sponsoring G
 
 <h3> [ travel. ⛵️ ] </h3>
 One of my goals for 2017 was to travel more. I see traveling as a growing and learning experience and being able to do that alongside my job, makes me very lucky.
-<img src="/assets/images/2017-travel.jpg" width="800" height="800" alt="crazy, crazy World">
+<img src="/assets/images/2017-travel.jpg" alt="crazy, crazy World">
 <br /> 🚀 I traveled to 15 cities in 10 countries.
 <br /> 🙏 Traveled alone for the first time and did yoga on a cliff in Hvar, Croatia. Much zen was acquired that day.
 <br /> ❤️ Traveled to Asia for the first time. Fell in LOVE with Bali.
