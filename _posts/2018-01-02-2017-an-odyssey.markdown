@@ -38,7 +38,7 @@ I continued applying and ended up giving 9 talks across the world. To audiences 
 
 Some other cool things came out of that. Like the fact that I met some wonderful people at SRECon EMEA and am now part of the organizers for SRECon18 🎉.
 
-I also ‘sold’ Intercom the idea of not only attending but also sponsoring Grace Hopper Celebration for Women in Computing. Me and two of my colleagues went for the first time in 2016. This time, there were 9 of us and we had a booth. Were you could Intercom with a vampire. <a title="because I make jokes about being a vampire. Cos I'm Romanian 😎"> Get it? </a>
+I also ‘sold’ Intercom the idea of not only attending but also sponsoring Grace Hopper Celebration for Women in Computing. Me and two of my colleagues went for the first time in 2016. This time, there were 9 of us and we had a booth. Where you could Intercom with a vampire. <a title="because I make jokes about being a vampire. Cos I'm Romanian 😎"> Get it? </a>
 
 <img src="/assets/images/vampire.jpg"/>
 
