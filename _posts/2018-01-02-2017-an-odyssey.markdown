@@ -30,7 +30,7 @@ I do miss doing web, and how creative JavaScript can be. So I am definitely not 
 
 <h3> [ conferences. 📡 ] </h3>
 
-During my time in Educate, one of the most interesting things I had to work on, was security-related. I always had an interest in the area, but never got to actually touch any security work after university. Security, was to me, one of those areas in tech that feel like you have to be cut from a certain type of material to be able to make it. In other words, not incredibly accessible to full-stack engineers, or people outside of the academic environment. I wanted to look more into it and find a way to demystify it. I wrote a talk, submitted it to Emberconf, and got accepted.
+During my time in Educate, one of the most interesting things I worked on, was security-related. I always had an interest in the area, but never got to actually touch any security work after university. Security, was to me, one of those areas in tech that feel like you have to be cut from a certain type of material to be able to make it. In other words, not incredibly accessible to full-stack engineers, or people outside of the academic environment. I wanted to look more into it and find a way to demystify it. I wrote a talk, submitted it to Emberconf, and got accepted.
 
 I realized what I care about most is precisely that - making information accessible. Less magic and things that seem like you need 2 PHDs and 10 brains to understand them. And a more down to Earth approach - that well, big surprise! - anything is learnable, and can be simplified to be understood by more people.
 
