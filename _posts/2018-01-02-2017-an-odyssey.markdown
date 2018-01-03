@@ -5,7 +5,7 @@ date: 2018-01-02
 categories:
   - retro
 description: 2017 In Review
-image: /assets/images/1200/2018-01-02-volcano.jpg
+image: http://ingride.xyz/assets/images/1200/2018-01-02-volcano.jpg
 image-sm: /assets/images/300/2018-01-02-volcano.jpg
 ---
 Christmas-time 2016 I had a revelation: A lot of what I think I can or cannot do, the way I perceive opportunities, challenges and see myself, has been heavily influenced by what people around told me or believed.
