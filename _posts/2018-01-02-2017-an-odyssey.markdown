@@ -21,7 +21,7 @@ I joined Intercom in 2016 because I really wanted to do web. And I was one of th
 
 But my heart was always in distributed systems. And I missed the awe of getting lost in a complex system that powers everything else. And how good it feels to make it simpler. So in February, I joined the Infrastructure team - now renamed Production Systems - with a personal goal of expanding my systems knowledge.
 
-Github reflects the learning curve I took while joining the team. And that being part of an operational team means on-call rotations, and sometimes doing projects that don’t always involve coding.
+Github reflects the learning curve I took while joining the team. And that being part of an operational team means on-call rotations, and sometimes doing projects that don’t involve much coding.
 <img src="/assets/images/github-2017.png" alt="Github 2017"/>
 
 I got to work on a variety of projects, from deployments, to databases, performance, security, instrumentation and logging. I discovered I am really interested in performance. And that I really like observability and data pipelines. So more of that to come in 2018.
