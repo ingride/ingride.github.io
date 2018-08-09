@@ -6,7 +6,7 @@ google_analytics:
 
 # SEO settings
 title: ingrid.e
-description: Ingrid Epure. Engineer at Intercom. Speaker
+description: Ingrid Epure. full-stack engineer. speaker. makes the world simpler, one production system at a time. might be a unicorn whisperer
 url: "ingride.xyz"
 twitter_username: ingridepure
 default_img: http://ingride.xyz/assets/images/default.jpg
@@ -14,11 +14,11 @@ default_img: http://ingride.xyz/assets/images/default.jpg
 # Profile settings
 name: ingrid.e
 profile_img: http://ingride.xyz/assets/images/ingrid.gif
-profile: Ingrid wants to make the world simpler. She's starting with Intercom's production systems.
+profile: Ingrid wants to make the world simpler, one production system at a time.
          She talks and cares deeply about demystifying the tech culture and wants to make it more accessible and open.
-         She is a DublinJs co-organizer and a mentor for women in tech communities.
+         She is a mentor for women in tech communities, and tries to help out SRECon and DublinJs.
          It's not entirely clear if she's really a unicorn whisperer or a vampire, but mentioning them makes bio's less awkward.
-         Ingrid knows the Internet is dark and full of terrors, and she promises these are her views, and her views alone. 
+         Ingrid knows the Internet is dark and full of terrors, and she promises these are her views, and her views alone.
 social:
   github: https://github.com/ingride
   twitter: https://twitter.com/ingridepure
