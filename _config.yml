@@ -14,10 +14,10 @@ default_img: http://ingride.xyz/assets/images/default.jpg
 # Profile settings
 name: ingrid.e
 profile_img: http://ingride.xyz/assets/images/ingrid.gif
-profile: Ingrid wants to make the world simpler, one production system at a time.
-         She talks and cares deeply about demystifying the tech culture and wants to make it more accessible and open.
-         She is a mentor for women in tech communities, and tries to help out SRECon and DublinJs.
-         It's not entirely clear if she's really a unicorn whisperer or a vampire, but mentioning them makes bio's less awkward.
+profile: Ingrid wants to make the world simpler, one production system at a time. <br />
+         She talks and cares deeply about demystifying the tech culture and wants to make it more accessible and open. <br />
+         She is a mentor for women in tech communities, and tries to help out SRECon and DublinJs.<br />
+         It's not entirely clear if she's really a unicorn whisperer or a vampire, but mentioning them makes bio's less awkward.<br />
          Ingrid knows the Internet is dark and full of terrors, and she promises these are her views, and her views alone.
 social:
   github: https://github.com/ingride
