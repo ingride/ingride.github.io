@@ -93,13 +93,28 @@ h3 {
 }
 
 h4 {
-  margin-bottom: 0.1em;
-
+  margin-bottom: 0.50em;
+  margin-top: 2.00em;
   font-size: 1.25em;
+}
+
+h5 {
+  margin-bottom: 0.50em;
+  margin-top: 2.00em;
+  font-size: 1.00em;
 }
 
 p {
   margin: 0 0 0.75em;
+}
+
+p.note
+{
+     background-color: #ebfbf4;
+     border-left: solid 4px  #abeed1;
+     line-height: 16px;
+     overflow: hidden;
+     padding: 12px;
 }
 
 a {
