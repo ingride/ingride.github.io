@@ -69,7 +69,7 @@ Seoul also marked my 10 days traveling. 10 is usually the make it or break it po
 negative. Jet-lag was real, humidity was NOT my friend, I switched 4 timezones, I found reasons!
 So I did what any person in such situation would do - I went to a cat cafe.
 
-<b> If the world would have more cat cafes, we'd all be happier! </b> Just sayin, they're on to something.!
+<b> If the world would have more cat cafes, we'd all be happier! </b> Just sayin, they're on to something!
 
 
 <img src="/assets/images/half-world-away/vietnam.jpg" alt="Vietnam"/>
