@@ -42,15 +42,18 @@ I've traveled alone before ( hooray international conferences ), but never for l
 <img src="/assets/images/half-world-away/dubai.jpg" alt="Dubai"/>
 I chose Dubai because it's one of the best connected hubs in the world. Every major airline flies to and from Dubai, and allows you to reach most destinations in Asia relatively easy. I didn't have a huge to-see list other than Burj Khalifa and the Marina Bay area. Within the first hour of being there, I got why it became so popular - everyone is friendly, polite and treat each other with respect. And from the moment I saw the downtown area and caught a glimpse of Burj Khalifa, I fell in love.
 I find Dubai's growth from a bunch of sand dunes to a metropolis in just 20 years, incredibly fascinating. Walking around, I was amazed by how engineered and thought-out everything was: from the irrigation system for their outdoor gardens ( yes, the downtown is wonderfully green considering you're in a desert ), to getting water all the way to the top of the tallest building in the world.
+<img src="/assets/images/half-world-away/g-downtown.jpg" alt="Dubai">
 <br /> Come to think of it now, Dubai is a good poster child for what an impact engineering can have on the world. But what I loved most is the feeling you are respected, valued, and welcomed to be there.
-I joked before ( especially after visiting Morocco and Arizona ) that I belong in the desert. There might be some truth to that - the 45 degrees heat felt actually tolerable with drinking a lot of water and covering up - added bonus of also respecting the local culture.
-Seeing a sand storm in action is one of the added bonuses of visiting summer time. It felt right out of a proper dystopian movie .
-I would go back in a heartbeat.
+I joked before ( especially after visiting Morocco and Arizona ) that I belong in the desert. There might be some truth to that - the 45 degrees heat felt actually surprisingly tolerable with drinking a lot of water and covering up - added bonus of also respecting the local culture.
+But the ultimate silver lining of visiting during the summer is seeing a sand storm in action. It felt right out of a proper dystopian movie .
+<br />I'd go back in a heartbeat.
 
 <img src="/assets/images/half-world-away/hk.jpg" alt="Hong Kong"/>
 
 The first thing I've been saying about Hong Kong is 'OMG, the food!'. I am not by definition a foodie, but Hong Kong converted me. From the less than 5 Dollars cute Michelin Restaurants, to their spin on Chinese Dishes.
 I followed a ( what turns out to be ) <a href="https://www.yogawinetravel.com/top-restaurants-to-eat-at-in-hong-kong/" target="_blank" ref="nofollow"> great blog post </a> about the Hong Kong food scene and it didn't disappoint. It took me to great parts of the city, and allowed my jet-lag self to not worry too much about where to eat.
+<img src="/assets/images/half-world-away/1.jpg" alt="HK"><img src="/assets/images/half-world-away/4.jpg" alt="HK"><img src="/assets/images/half-world-away/3.jpg" alt="HK">
+
 Second, Hong Kong's metro system is just incredible. You don't need anything else ( unless you're like me and love boats. But the metro card will also work with that! ).
 The city itself is crazily fast paced - best noticed in restaurants, where everyone eats and leaves quickly - and busy at all times. You're expected to share a table at a restaurant, regardless of the group size. But you can also see it in the packed buildings with tiny apartments - it's all work, and after work fun. You'd think people would be grumpy and tired all the time. Turns out, they seem really happy. Perhaps it is the good food. Or the fact they have actual billboards with tips on how to be joyful. Am not kidding.
 
