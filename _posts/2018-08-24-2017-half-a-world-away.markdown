@@ -42,15 +42,18 @@ I've traveled alone before ( hooray international conferences ), but never for l
 <img src="/assets/images/half-world-away/dubai.jpg" alt="Dubai"/>
 I chose Dubai because it's one of the best connected hubs in the world. Every major airline flies to and from Dubai, and allows you to reach most destinations in Asia relatively easy. I didn't have a huge to-see list other than Burj Khalifa and the Marina Bay area. Within the first hour of being there, I got why it became so popular - everyone is friendly, polite and treat each other with respect. And from the moment I saw the downtown area and caught a glimpse of Burj Khalifa, I fell in love.
 I find Dubai's growth from a bunch of sand dunes to a metropolis in just 20 years, incredibly fascinating. Walking around, I was amazed by how engineered and thought-out everything was: from the irrigation system for their outdoor gardens ( yes, the downtown is wonderfully green considering you're in a desert ), to getting water all the way to the top of the tallest building in the world.
+<img src="/assets/images/half-world-away/g-downtown.jpg" alt="Dubai">
 <br /> Come to think of it now, Dubai is a good poster child for what an impact engineering can have on the world. But what I loved most is the feeling you are respected, valued, and welcomed to be there.
-I joked before ( especially after visiting Morocco and Arizona ) that I belong in the desert. There might be some truth to that - the 45 degrees heat felt actually tolerable with drinking a lot of water and covering up - added bonus of also respecting the local culture.
-Seeing a sand storm in action is one of the added bonuses of visiting summer time. It felt right out of a proper dystopian movie .
-I would go back in a heartbeat.
+I joked before ( especially after visiting Morocco and Arizona ) that I belong in the desert. There might be some truth to that - the 45 degrees heat felt actually surprisingly tolerable with drinking a lot of water and covering up - added bonus of also respecting the local culture.
+But the ultimate silver lining of visiting during the summer is seeing a sand storm in action. It felt right out of a proper dystopian movie .
+<br />I'd go back in a heartbeat.
 
 <img src="/assets/images/half-world-away/hk.jpg" alt="Hong Kong"/>
 
 The first thing I've been saying about Hong Kong is 'OMG, the food!'. I am not by definition a foodie, but Hong Kong converted me. From the less than 5 Dollars cute Michelin Restaurants, to their spin on Chinese Dishes.
 I followed a ( what turns out to be ) <a href="https://www.yogawinetravel.com/top-restaurants-to-eat-at-in-hong-kong/" target="_blank" ref="nofollow"> great blog post </a> about the Hong Kong food scene and it didn't disappoint. It took me to great parts of the city, and allowed my jet-lag self to not worry too much about where to eat.
+<img src="/assets/images/half-world-away/hk-food.jpg" alt="all the food">
+
 Second, Hong Kong's metro system is just incredible. You don't need anything else ( unless you're like me and love boats. But the metro card will also work with that! ).
 The city itself is crazily fast paced - best noticed in restaurants, where everyone eats and leaves quickly - and busy at all times. You're expected to share a table at a restaurant, regardless of the group size. But you can also see it in the packed buildings with tiny apartments - it's all work, and after work fun. You'd think people would be grumpy and tired all the time. Turns out, they seem really happy. Perhaps it is the good food. Or the fact they have actual billboards with tips on how to be joyful. Am not kidding.
 
@@ -61,6 +64,7 @@ Good chats and food are a match made in travel heaven.
 <img src="/assets/images/half-world-away/seoul.jpg" alt="Seoul"/>
 
 Seoul is the city I was most excited about from the beginning. Two words: cuteness overload. Even the metro card is cartoony themed. So are the ice-creams and stores. Much happiness for the girly side of me.
+<img src="/assets/images/half-world-away/cute-seoul.jpg" alt="oh hai"/>
 The city is hands down Nirvana for everything face mask and skin care, and there's an entire block with such stores. Not even gonna tell you how much time I spent there! But let's just say it also converts to a food paradise at night. Soooo it was a lot. The struggle to be disciplined and go to other places too was real. VEEERY real!  
 
 Seoul is a fascinating mix of old and new. You can still find an entire neighborhood with houses built in a traditional Korean style ( and using traditional methods ), palaces and monuments celebrating Korea's past. All alongside a really modern skyline and architectural masterpieces like Ewha Womans University ( an incredible underground building ) and the museum of modern art.
@@ -68,7 +72,7 @@ Seoul is a fascinating mix of old and new. You can still find an entire neighbor
 Seoul also marked my 10 days traveling. 10 is usually the make it or break it point point for me when I try to form a new habit. It's that time I get tired, anxious, start thinking, start over-thinking, get a <strike> little </strike>
 negative. Jet-lag was real, humidity was NOT my friend, I switched 4 timezones, I found reasons!
 So I did what any person in such situation would do - I went to a cat cafe.
-
+<img src="/assets/images/half-world-away/cats.jpg" alt="Meow!"/>
 <b> If the world would have more cat cafes, we'd all be happier! </b> Just sayin, they're on to something.!
 
 
@@ -77,9 +81,13 @@ So I did what any person in such situation would do - I went to a cat cafe.
 When you do Hong Kong and Seoul in a 10 days combined, two things will happen. First, your brain will be timezone confused. Second, for me, was wanting to visit as much as I could ( there is just SO much to do and all looks SO goooooood! ). Add the jet-lag on top, and it makes for a particularly stressful experience. I was walking around until very late at night every day, and felt like I was constantly on the run for something.
 Turns out, I was right about Vietnam, and getting there made me relax. The air had something that reminded me of Bali ( probably the humidity and gloomy light), and it felt, overall, familiar.
 
-Hanoi is one of those places where <a title="once you learn how to cross the insanely busy streets, withough literally DYING" >you can just be </a>, take your time to drink a coffee and eat all the soups. I'm a firm believer Pho cures everything ( just sayin, it's been working for years every time I am under the weather ). My Hanoi experience was pretty much channeling my Anthony Bourdain side, and eating. All the time! I grew up inspired by his shows, and it was one of those moments when it (finally) clicked, and got exciting. 'Holy shit, I'm actually traveling the world!' kinda thing :) .  
+Hanoi is one of those places where <a title="once you learn how to cross the insanely busy streets, withough literally DYING" >you can just be </a>, take your time to drink a coffee and eat all the soups. I'm a firm believer Pho cures everything ( just sayin, it's been working for years every time I am under the weather ).
+<img src="/assets/images/half-world-away/pho.jpg" alt="bowl of deliciousness"/>
+ My Hanoi experience was pretty much channeling my Anthony Bourdain side, and eating. All the time! I grew up inspired by his shows, and it was one of those moments when it (finally) clicked, and got exciting. 'Holy shit, I'm actually traveling the world!' kinda thing :) .  
 
- Besides the food, I chose Hanoi for access to Sapa and Halong Bay trips. While the latter didn't work out because of all the rain ( monsoon season, you're the worst! ), Sapa is hands down one of the most beautiful places I've ever seen. I got rained on for days, and exhibited much creativity in protecting my camera so I can take photos in the pouring rain ( although my camera is weather sealed, it's NOT monsoon sealed! ). Yes, an umbrella would've worked better. Now I know.
+ Besides the food, I chose Hanoi for access to Sapa and Halong Bay trips. While the latter didn't work out because of all the rain ( monsoon season, you're the worst! ), Sapa is hands down one of the most beautiful places I've ever seen. I got rained on for days, and exhibited much creativity in protecting my camera so I can take photos in the pouring rain ( although my camera is weather sealed, it's NOT monsoon sealed! ).
+<img src="/assets/images/half-world-away/creativity.jpg" alt="monsoonproofed"/>
+Yes, an umbrella would've worked better. Now I know.
 
 In the end, was grateful to escape South, to Hoi An. It reminded me of Venice, with all the cute long boats and lanterns floating around the main river ( and if you know me, you know how much I LOVE Venice ). Hoi An is infinitely more creative, fascinating, and friendly than any other place I visited in Vietnam.
 It took me from a lantern festival, to food markets and cooking classes, to shooting in a rice field, and a circus performance. All in just 4 ( too short ) days.
@@ -97,9 +105,10 @@ Unfortunately my previous humidity and lack of salt adventures, combined with AC
 
 <img src="/assets/images/half-world-away/samui.jpg" alt="Koh Samui"/>
 
-My 2 weeks oasis. Samui was way way colder and quieter this time a year - something I was really really! grateful for. I flew out there sick and miserable, and recovered faster than I expected. I suspect my dragon fruit, papaya & watermelon daily routine had something to do with it. It turns out, I was also right that I will start reconnecting with real-world and tech while here. There's nothing quite like the sound of waves as background music. The beach has been my office for 2 weeks.
+My 2 weeks oasis. Samui was way way colder and quieter this time a year - something I was really really! grateful for. I flew out there sick and miserable, and recovered faster than I expected. I suspect my dragon fruit, papaya & watermelon daily routine had something to do with it. It turns out, I was also right that I will start reconnecting with real-world and tech while here. There's nothing quite like the sound of waves as background music, and having the beach as an office for 2 weeks.
 
 <h3> [ <font color="#0000ff">  self-review time. </font> ] </h3>
+<img src="/assets/images/half-world-away/ingride.jpg" alt="it's meeee"/>
 <h4> What I've done well </h4>
 <br /> - I anticipated correctly I'll start resurfacing to real world and tech while in Thailand. Makes me think I've done something right in my planning. And that after all, I know myself pretty well. Small wins.
 <br /> - I got vaccinated for all the things scary in Dublin. It took me 2 weeks and a non trivial amount of money. It allows me to not be paranoid about food markets. It also kept me (mostly) calm when I got sick, knowing it was probably just a cold.
