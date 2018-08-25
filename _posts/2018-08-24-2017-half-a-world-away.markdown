@@ -69,7 +69,7 @@ The city is hands down Nirvana for everything face mask and skin care, and there
 
 Seoul is a fascinating mix of old and new. You can still find an entire neighborhood with houses built in a traditional Korean style ( and using traditional methods ), palaces and monuments celebrating Korea's past. All alongside a really modern skyline and architectural masterpieces like Ewha Womans University ( an incredible underground building ) and the museum of modern art.
 
-Seoul also marked my 10 days traveling. 10 is usually the make it or break it point point for me when I try to form a new habit. It's that time I get tired, anxious, start thinking, start over-thinking, get a <strike> little </strike>
+Seoul also marked my 10 days traveling. 10 is usually the make it or break it point for me when I try to form a new habit. It's that time I get tired, anxious, start thinking, start over-thinking, get a <strike> little </strike>
 negative. Jet-lag was real, humidity was NOT my friend, I switched 4 timezones, I found reasons!
 So I did what any person in such situation would do - I went to a cat cafe.
 <img src="/assets/images/half-world-away/cats.jpg" alt="Meow!"/>
@@ -81,7 +81,7 @@ So I did what any person in such situation would do - I went to a cat cafe.
 When you do Hong Kong and Seoul in a 10 days combined, two things will happen. First, your brain will be timezone confused. Second, for me, was wanting to visit as much as I could ( there is just SO much to do and all looks SO goooooood! ). Add the jet-lag on top, and it makes for a particularly stressful experience. I was walking around until very late at night every day, and felt like I was constantly on the run for something.
 Turns out, I was right about Vietnam, and getting there made me relax. The air had something that reminded me of Bali ( probably the humidity and gloomy light), and it felt, overall, familiar.
 
-Hanoi is one of those places where <a title="once you learn how to cross the insanely busy streets, withough literally DYING" >you can just be </a>, take your time to drink a coffee and eat all the soups. I'm a firm believer Pho cures everything ( just sayin, it's been working for years every time I am under the weather ).
+Hanoi is one of those places where <a title="once you learn how to cross the insanely busy streets, without literally DYING" >you can just be </a>, take your time to drink a coffee and eat all the soups. I'm a firm believer Pho cures everything ( just sayin, it's been working for years every time I am under the weather ).
 <img src="/assets/images/half-world-away/pho.jpg" alt="bowl of deliciousness"/>
  My Hanoi experience was pretty much channeling my Anthony Bourdain side, and eating. All the time! I grew up inspired by his shows, and it was one of those moments when it (finally) clicked, and got exciting. 'Holy shit, I'm actually traveling the world!' kinda thing :) .  
 
