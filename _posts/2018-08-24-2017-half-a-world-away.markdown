@@ -112,8 +112,8 @@ My 2 weeks oasis. Samui was way way colder and quieter this time a year - someth
 <h4> What I've done well </h4>
 <br /> - I anticipated correctly I'll start resurfacing to real world and tech while in Thailand. Makes me think I've done something right in my planning. And that after all, I know myself pretty well. Small wins.
 <br /> - I got vaccinated for all the things scary in Dublin. It took me 2 weeks and a non trivial amount of money. It allows me to not be paranoid about food markets. It also kept me (mostly) calm when I got sick, knowing it was probably just a cold.
-<br /> - I've started working out again
-<br /> - I read for at least 1h every day
+<br /> - I've started working out again.
+<br /> - I read for at least 1h every day.
 <br /> - I got tanned. Horray! It is VERY rare!
 
 <h4> What I could've done / could do better: </h4>
