@@ -6,7 +6,7 @@ categories:
   - retro
 description: Ingrid looks back at 2017 and writes a review 👩‍💻 📡 🚀 📷
 image: http://ingride.xyz/assets/images/1200/2018-01-02-volcano.jpg
-image-sm: /assets/images/300/2018-01-02-volcano.jpg
+image-sm: http://ingride.xyz/assets/images/1200/2018-01-02-volcano.jpg
 ---
 Christmas-time 2016, I had a revelation: a lot of what I think I can or cannot do, the way I perceive opportunities, challenges, and see myself has been heavily influenced by what people around told me or believed.
 I come from that kind of culture. I didn’t like it. And it didn’t fit with how I wanted to be, do things, live.

@@ -5,8 +5,8 @@ date: 2018-08-24
 categories:
   - retro
 description: First month traveling around the world
-image: /assets/images/1200/2018-08-24-world.jpg
-image-sm: /assets/images/300/2018-08-24-world.jpg
+image: http://ingride.xyz/assets/images/1200/2018-08-24-world.jpg
+image-sm: http://ingride.xyz/assets/images/300/2018-08-24-world.jpg
 ---
 I am a firm believer you feel almost instantly when you belong somewhere. Be it in a job, city, relationship or event. I also believe it can be overpowered by how great of an opportunity something is, a strong belief that anything takes X amount of time, respect, duty, or even, unfortunately, having no other choice.
 
